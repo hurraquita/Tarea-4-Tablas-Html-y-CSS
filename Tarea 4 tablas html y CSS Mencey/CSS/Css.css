@@ -1,0 +1,42 @@
+body {
+    background: aliceblue;
+}
+
+.ct {
+    margin: 40px auto;
+}
+
+.tt {
+    text-align: center;
+    background: white;
+}
+
+.tt td {
+    padding: 12px 20px;
+    font-size: 20px;
+}
+
+.tj {
+    border-collapse: collapse;
+    min-width: 450px;
+}
+
+.tj th, .tj td {
+    border: 1px solid white;
+    padding: 8px 10px;
+    font-size: 14px;
+}
+
+.tj th {
+    background: black;
+    border: none;
+    color: blue;
+}
+
+
+
+.dest {
+    background: aqua;
+    border: none;
+    border-collapse: collapse;
+}
